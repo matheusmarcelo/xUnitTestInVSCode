@@ -1,6 +1,6 @@
 # xUnitTestInVsCode
 
-A Project's example for a write a xunit test in VSCode
+A Project's example for a write unit tests with xUnit in VSCode
 
 - [About](#about)
 - [Installation](#installation)
