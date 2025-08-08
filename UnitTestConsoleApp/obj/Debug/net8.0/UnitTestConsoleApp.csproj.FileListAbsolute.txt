@@ -1,0 +1,14 @@
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\bin\Debug\net8.0\UnitTestConsoleApp.exe
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\bin\Debug\net8.0\UnitTestConsoleApp.deps.json
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\bin\Debug\net8.0\UnitTestConsoleApp.runtimeconfig.json
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\bin\Debug\net8.0\UnitTestConsoleApp.dll
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\bin\Debug\net8.0\UnitTestConsoleApp.pdb
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.AssemblyInfoInputs.cache
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.AssemblyInfo.cs
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.dll
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\obj\Debug\net8.0\refint\UnitTestConsoleApp.dll
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.pdb
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.genruntimeconfig.cache
+C:\ProjetosProgramacao\ProjetosC#\xUnitTestInVsCode\UnitTestConsoleApp\obj\Debug\net8.0\ref\UnitTestConsoleApp.dll
